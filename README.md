@@ -9,4 +9,4 @@
 1.  [Chapter 8](./Chapter_8)
 1.  [Chapter 9](./Chapter_9)
 
-*There may be errors in the file. I am sorry for that. :smile: *
+*There may be errors in the file. I am sorry for that.* :smile: 
